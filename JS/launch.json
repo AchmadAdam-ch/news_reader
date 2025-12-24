@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "News Reader (Web Security Disabled)",
+            "request": "launch",
+            "type": "dart",
+            "args": ["--web-browser-flag", "--disable-web-security"]
+        }
+    ]
+}
